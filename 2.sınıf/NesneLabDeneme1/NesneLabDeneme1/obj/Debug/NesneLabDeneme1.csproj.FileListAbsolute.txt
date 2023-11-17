@@ -1,0 +1,145 @@
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\kacar\OneDrive\Masaüstü\ooblab_05_05\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form7.resources
+C:\Users\ferdi\Desktop\Game2-Berke_tusharaket\NesneLabDeneme1 - Kopya\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form8.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form7.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form8.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form7.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form8.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\kacar\OneDrive\Masaüstü\Yeni klasör (8)\Game2\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form9.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form7.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form8.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form9.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form10_multi.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Connection.resources
+C:\Users\ferdi\Desktop\SQLli kod\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.PrePlay.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Connection.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form10_multi.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form7.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form8.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form9.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.PrePlay.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\Yenilikler\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe.config
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\bin\Debug\NesneLabDeneme1.pdb
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csprojAssemblyReference.cache
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Connection.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form1.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form10_multi.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form2.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form3.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form4.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form5.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form6.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form7.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form8.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Form9.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.PrePlay.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.Properties.Resources.resources
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.GenerateResource.cache
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.exe
+C:\Users\ferdi\Desktop\NesneLabDeneme1\NesneLabDeneme1\obj\Debug\NesneLabDeneme1.pdb

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uyeler>
+  <uye>
+    <name-surname>admin</name-surname>
+    <username>admin</username>
+    <password>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</password>
+    <phone>admin</phone>
+    <city>admin</city>
+    <adress>admin</adress>
+    <e-mail>admin</e-mail>
+    <country>admin</country>
+    <difficulties></difficulties>
+    <shape></shape>
+    <color></color>
+  </uye>
+  <uye>
+    <name-surname>Berke</name-surname>
+    <username>berke</username>
+    <password>RUB1qHRXZ3n2EnlI/QVPdJsF4IUZA5FRIceZJSs9TEw=</password>
+    <phone>5422296473</phone>
+    <city>Eskişehir</city>
+    <adress>büyükdere mahallesi papatya sokak no:.3</adress>
+    <e-mail>kacarberke@iicloud.com</e-mail>
+    <country>Turkey</country>
+    <difficulties>normal</difficulties>
+    <shape>circle</shape>
+    <color>yellow</color>
+  </uye>
+  <uye>
+    <name-surname>user</name-surname>
+    <username>user</username>
+    <password>BPiZbadjt6lpsQKO4wB1aerzpjVIbdqyEdUSyFud+Ps=</password>
+    <phone></phone>
+    <city></city>
+    <adress></adress>
+    <e-mail></e-mail>
+    <country></country>
+    <difficulties></difficulties>
+    <shape></shape>
+    <color></color>
+  </uye>
+  <uye>
+    <name-surname>Ferdi</name-surname>
+    <username>ferdi</username>
+    <password>WpoZ5e/eA3QZwBe98JXqVHEjdsT3UL5miET0HgKXHK8=</password>
+    <phone>213124213123</phone>
+    <city>izmit</city>
+    <adress>Alikahya</adress>
+    <e-mail>ferdiislam4152</e-mail>
+    <country>Türkiye</country>
+    <difficulties></difficulties>
+    <shape></shape>
+    <color></color>
+  </uye>
+  <uye>
+    <name-surname>uğur</name-surname>
+    <username>ugurel</username>
+    <password>WZRHGrsBESr8wYFZ9sx0tPURuZgG2lmzyvWpwXPKz8U=</password>
+    <phone>2341342342</phone>
+    <city>3242342</city>
+    <adress></adress>
+    <e-mail></e-mail>
+    <country>23423</country>
+    <difficulties> </difficulties>
+    <shape> </shape>
+    <color> </color>
+  </uye>
+</uyeler>
