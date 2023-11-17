@@ -1,0 +1,10 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyPrinterApp.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyPrinterApp.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyPrinterApp.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyPrinterApp.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyPrinterApp.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta2\B\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\bin\Debug\hafta_1_win_1.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\bin\Debug\hafta_1_win_1.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\bin\Debug\hafta_1_win_1.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.csprojAssemblyReference.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\hafta_1_win_1\hafta_1_win_1\obj\Debug\hafta_1_win_1.Form1.resources

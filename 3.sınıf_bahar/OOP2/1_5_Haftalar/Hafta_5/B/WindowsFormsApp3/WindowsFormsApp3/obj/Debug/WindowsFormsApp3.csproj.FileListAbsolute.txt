@@ -1,0 +1,10 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_5\B\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

@@ -1,0 +1,10 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csprojAssemblyReference.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.Form1.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb

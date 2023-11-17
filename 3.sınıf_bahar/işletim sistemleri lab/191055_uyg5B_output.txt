@@ -1,0 +1,14 @@
+0. --> Saglik calisanlarina sonsuz tesekkurler!..
+ 1. (kafa ) YuzDezenfektani           --> Kalan oge sayisi: 12
+ 1. (kafa ) SaglikMaskesi             --> Kalan oge sayisi: 11
+ 2. (kafa ) Bone                      --> Kalan oge sayisi: 10
+ 3. (kafa ) KoruyucuPlastikYuzMaskesi --> Kalan oge sayisi: 9
+ 5. (govde) Atlet                     --> Kalan oge sayisi: 8
+ 6. (govde) Gomlek                    --> Kalan oge sayisi: 7
+ 7. (govde) Tulum                     --> Kalan oge sayisi: 6
+ 8. (el   ) ElDezenfektani            --> Kalan oge sayisi: 5
+ 9. (el   ) Eldiven                   --> Kalan oge sayisi: 4
+10. (bacak) Pantolon                  --> Kalan oge sayisi: 3
+11. (bacak) Kemer                     --> Kalan oge sayisi: 2
+12. (ayak ) Corap                     --> Kalan oge sayisi: 1
+13. (ayak ) Ayakkabi                  --> Goreve hazirim!

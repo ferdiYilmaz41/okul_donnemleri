@@ -1,0 +1,6 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\Toplama_Dll\Toplama_Dll\bin\Debug\Toplama_Dll.dll
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\Toplama_Dll\Toplama_Dll\bin\Debug\Toplama_Dll.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\Toplama_Dll\Toplama_Dll\obj\Debug\Toplama_Dll.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\Toplama_Dll\Toplama_Dll\obj\Debug\Toplama_Dll.dll
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\Toplama_Dll\Toplama_Dll\obj\Debug\Toplama_Dll.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\Toplama_Dll\Toplama_Dll\obj\Debug\Toplama_Dll.csprojAssemblyReference.cache

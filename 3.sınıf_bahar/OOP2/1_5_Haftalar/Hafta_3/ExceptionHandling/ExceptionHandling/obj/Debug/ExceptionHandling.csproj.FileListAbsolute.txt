@@ -1,0 +1,10 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.Form1.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

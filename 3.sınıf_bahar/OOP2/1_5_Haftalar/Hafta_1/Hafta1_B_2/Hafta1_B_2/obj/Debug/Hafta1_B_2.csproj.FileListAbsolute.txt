@@ -1,0 +1,10 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\bin\Debug\Hafta1_B_2.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\bin\Debug\Hafta1_B_2.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\bin\Debug\Hafta1_B_2.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.csprojAssemblyReference.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.Form1.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta1_B_2\Hafta1_B_2\obj\Debug\Hafta1_B_2.pdb

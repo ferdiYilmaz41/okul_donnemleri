@@ -1,0 +1,13 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\bin\Debug\Toplama_with_dll.exe.config
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\bin\Debug\Toplama_with_dll.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\bin\Debug\Toplama_with_dll.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\bin\Debug\Dort_Islem.dll
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\bin\Debug\Dort_Islem.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.csprojAssemblyReference.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.Form1.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.Properties.Resources.resources
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.csproj.GenerateResource.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.csproj.CopyComplete
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.exe
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Toplama_with_dll\Toplama_with_dll\obj\Debug\Toplama_with_dll.pdb

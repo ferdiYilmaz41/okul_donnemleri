@@ -1,0 +1,5 @@
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Dort_Islem\Dort_Islem\bin\Debug\Dort_Islem.dll
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Dort_Islem\Dort_Islem\bin\Debug\Dort_Islem.pdb
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Dort_Islem\Dort_Islem\obj\Debug\Dort_Islem.csproj.CoreCompileInputs.cache
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Dort_Islem\Dort_Islem\obj\Debug\Dort_Islem.dll
+C:\Users\dualsoft\Source\Repos\2022_2023_OOP\Hafta_3\B\Dort_Islem\Dort_Islem\obj\Debug\Dort_Islem.pdb
