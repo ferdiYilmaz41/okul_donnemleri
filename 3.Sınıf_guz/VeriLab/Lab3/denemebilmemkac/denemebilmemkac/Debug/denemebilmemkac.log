@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ferdi\desktop\3.sınıf\verilab\lab3\denemebilmemkac\denemebilmemkac\source.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\verilab\lab3\denemebilmemkac\denemebilmemkac\source.cpp(172): error C2664: 'int evaluatePostfix(char *)': cannot convert argument 1 from 'std::string' to 'char *'
+  c:\users\ferdi\desktop\3.sınıf\verilab\lab3\denemebilmemkac\denemebilmemkac\source.cpp(172): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

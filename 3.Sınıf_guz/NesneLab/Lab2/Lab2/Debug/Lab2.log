@@ -1,0 +1,4 @@
+﻿  RandomNumberGenerator.cpp
+c:\users\ferdi\desktop\nesnelab\lab2\lab2\randomnumbergenerator.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ferdi\desktop\nesnelab\lab2\lab2\randomnumbergenerator.cpp(68): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lab2.vcxproj -> C:\Users\ferdi\Desktop\NesneLab\Lab2\Debug\Lab2.exe

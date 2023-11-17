@@ -1,0 +1,6 @@
+﻿  Expression.cpp
+c:\users\ferdi\desktop\3.sınıf\verilab\lab3\deneme\deneme\expression.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\verilab\lab3\deneme\deneme\expression.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\verilab\lab3\deneme\deneme\expression.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\verilab\lab3\deneme\deneme\expression.cpp(140): warning C4715: 'applyOp': not all control paths return a value
+  deneme.vcxproj -> C:\Users\ferdi\Desktop\3.Sınıf\VeriLab\Lab3\deneme\Debug\deneme.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ferdi\desktop\verilab_prelab1\verilab_prelab1\main.cpp(11): warning C4101: 'col': unreferenced local variable
+c:\users\ferdi\desktop\verilab_prelab1\verilab_prelab1\main.cpp(13): warning C4101: 'blobArray': unreferenced local variable
+  VeriLab_PreLab1.vcxproj -> C:\Users\ferdi\Desktop\VeriLab_PreLab1\Debug\VeriLab_PreLab1.exe

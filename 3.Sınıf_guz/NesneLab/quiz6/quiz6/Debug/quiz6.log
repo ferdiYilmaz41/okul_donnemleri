@@ -1,0 +1,7 @@
+﻿  polymorphicBanking.cpp
+c:\users\ferdi\desktop\polymorphicbanking.cpp(48): error C2683: 'dynamic_cast': 'Account' is not a polymorphic type
+  c:\users\ferdi\desktop\account.h(6): note: see declaration of 'Account'
+  SavingsAccount.cpp
+c:\users\ferdi\desktop\savingsaccount.cpp(6): error C2512: 'Account': no appropriate default constructor available
+  c:\users\ferdi\desktop\account.h(6): note: see declaration of 'Account'
+  Generating Code...

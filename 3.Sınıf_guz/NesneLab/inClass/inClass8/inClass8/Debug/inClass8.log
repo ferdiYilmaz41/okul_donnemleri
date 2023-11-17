@@ -1,0 +1,4 @@
+﻿  soru2.cpp
+c:\users\ferdi\desktop\inclass8\inclass8\soru2.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\inclass8\inclass8\soru2.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  inClass8.vcxproj -> C:\Users\ferdi\Desktop\inClass8\Debug\inClass8.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\vector.h(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\vector.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\vector.h(70): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\vector.h(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\vector.h(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\vector.h(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz5\quiz5\main.cpp(77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  quiz5.vcxproj -> C:\Users\ferdi\Desktop\3.Sınıf\NesneLab\quiz5\Debug\quiz5.exe

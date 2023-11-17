@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz7\quiz7\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz7\quiz7\main.cpp(10): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz7\quiz7\main.cpp(27): note: see reference to function template instantiation 'T GenerateRandomNumber<int>(int,int,double)' being compiled
+          with
+          [
+              T=int
+          ]
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz7\quiz7\main.cpp(11): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\ferdi\desktop\3.sınıf\nesnelab\quiz7\quiz7\main.cpp(13): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  quiz7.vcxproj -> C:\Users\ferdi\Desktop\3.Sınıf\NesneLab\quiz7\Debug\quiz7.exe

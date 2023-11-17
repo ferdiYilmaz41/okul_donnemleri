@@ -1,0 +1,1 @@
+alter table hesap add foreign key (sube_adi) references Sube(sube_adi)

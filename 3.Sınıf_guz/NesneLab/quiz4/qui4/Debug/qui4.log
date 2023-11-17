@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ferdi\desktop\3.sınıf\nesnelab\qui4\qui4\player.h(72): warning C4715: 'Player::Move': not all control paths return a value
+  qui4.vcxproj -> C:\Users\ferdi\Desktop\3.Sınıf\NesneLab\qui4\Debug\qui4.exe

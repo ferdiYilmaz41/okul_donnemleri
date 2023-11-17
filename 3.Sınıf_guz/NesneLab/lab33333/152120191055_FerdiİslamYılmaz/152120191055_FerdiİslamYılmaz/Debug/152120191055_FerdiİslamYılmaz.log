@@ -1,0 +1,6 @@
+﻿  Expression.cpp
+c:\users\ferdi\desktop\lab33333\152120191055_ferdiİslamyılmaz\152120191055_ferdiİslamyılmaz\expression.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\lab33333\152120191055_ferdiİslamyılmaz\152120191055_ferdiİslamyılmaz\expression.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\lab33333\152120191055_ferdiİslamyılmaz\152120191055_ferdiİslamyılmaz\expression.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\lab33333\152120191055_ferdiİslamyılmaz\152120191055_ferdiİslamyılmaz\expression.cpp(84): warning C4715: 'islemYap': not all control paths return a value
+  152120191055_FerdiİslamYılmaz.vcxproj -> C:\Users\ferdi\Desktop\lab33333\152120191055_FerdiİslamYılmaz\Debug\152120191055_FerdiİslamYılmaz.exe

@@ -1,0 +1,9 @@
+﻿  soru2.cpp
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\ferdi\desktop\verilab\inclass5\inclass5\soru2.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  inClass5.vcxproj -> C:\Users\ferdi\Desktop\VeriLab\inClass5\Debug\inClass5.exe
